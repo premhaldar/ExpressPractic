@@ -8,3 +8,13 @@ yarn add hpp
 yarn add jsonwebtoken
 yarn add mongoose
 yarn add nodemailer
+
+##########################
+Create app folder//app folder er vitor aro 5 ta file banate hobe
+
+config-
+    
+controllers
+middlewares
+models
+utility
