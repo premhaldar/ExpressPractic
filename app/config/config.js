@@ -8,10 +8,10 @@ export const EMAIL_USER="";
 export const EMAIL_PASSWORD="";
 
 export const MAX_JSON_SIZE ="50 mb";
-export const MAX_ENCODED= true;
+export const URL_ENCODED= true;
 
-export const REQUEST_LIMIT_TIME="15*60*1000";
-export const REQUEST_LIMIT_NUMBER = "3000";
+export const REQUEST_LIMIT_TIME=15*60*1000;
+export const REQUEST_LIMIT_NUMBER = 3000;
 
 export const WEB_CACHE=false;
 export const PORT=6060;
