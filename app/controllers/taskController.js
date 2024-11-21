@@ -1,4 +1,4 @@
-export const createTask=(req,res) =>{
+export const createTask=(req,res) =>{ 
     return res.json({message:`Task created successfully`});
 }
 export const readTask=(req,res) =>{
